@@ -1,0 +1,2 @@
+0 comida mala
+1 comida buena
